@@ -1,0 +1,28 @@
+E:\Estágio Ribeirão Preto - 2024\Q1\bin\Debug\net8.0\Q1.exe
+E:\Estágio Ribeirão Preto - 2024\Q1\bin\Debug\net8.0\Q1.deps.json
+E:\Estágio Ribeirão Preto - 2024\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+E:\Estágio Ribeirão Preto - 2024\Q1\bin\Debug\net8.0\Q1.dll
+E:\Estágio Ribeirão Preto - 2024\Q1\bin\Debug\net8.0\Q1.pdb
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.dll
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\refint\Q1.dll
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.pdb
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+E:\Estágio Ribeirão Preto - 2024\Q1\obj\Debug\net8.0\ref\Q1.dll
+E:\teste-target-sistemas-2024\Q1\bin\Debug\net8.0\Q1.exe
+E:\teste-target-sistemas-2024\Q1\bin\Debug\net8.0\Q1.deps.json
+E:\teste-target-sistemas-2024\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+E:\teste-target-sistemas-2024\Q1\bin\Debug\net8.0\Q1.dll
+E:\teste-target-sistemas-2024\Q1\bin\Debug\net8.0\Q1.pdb
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.dll
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\refint\Q1.dll
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.pdb
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+E:\teste-target-sistemas-2024\Q1\obj\Debug\net8.0\ref\Q1.dll

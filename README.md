@@ -4,6 +4,8 @@ Este repositório contém todas as respostas referentes ao desafio técnico pros
 
 A linguagem utilizada para a resolução das questões de algoritmo foi o C#.
 
+⚠ Atenção! Os arquivos da resolução em C# estão usando instruções de nível superior, então não possuem uma classe Programa **explícita** e nem um método principal. 
+
 ## Perguntas e Respostas
 
 1. Observe o trecho de código abaixo:
